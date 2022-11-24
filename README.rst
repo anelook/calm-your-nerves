@@ -19,3 +19,4 @@ Other materials
 1. From Huberman Lab - `Tools for Managing Stress & Anxiety <https://hubermanlab.com/tools-for-managing-stress-and-anxiety/>`_
 #. From Huberman Lab on cold exposure practices - `How cold exposure can be used to safely stress the body to improve attention, mood, and cognitive focus <https://hubermanlab.com/using-deliberate-cold-exposure-for-health-and-performance/>`_
 #. From Huberman Lab - `Erasing Fears & Traumas Based on the Modern Neuroscience of Fear <https://hubermanlab.com/erasing-fears-and-traumas-based-on-the-modern-neuroscience-of-fear/>`_
+#. How to do Physiological Sigh - `Reduce Anxiety & Stress with the Physiological Sigh <https://www.youtube.com/watch?v=rBdhqBGqiMc&ab_channel=AndrewHuberman>`_.
